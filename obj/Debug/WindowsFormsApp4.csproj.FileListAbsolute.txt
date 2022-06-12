@@ -1,0 +1,14 @@
+D:\Users\ichsu\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\Users\ichsu\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\Users\ichsu\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\Users\ichsu\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\Users\ichsu\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+D:\Users\ichsu\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\Users\ichsu\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Users\ichsu\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Users\ichsu\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Users\ichsu\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\Users\ichsu\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\Users\ichsu\source\repos\WindowsFormsApp4\bin\Debug\Newtonsoft.Json.dll
+D:\Users\ichsu\source\repos\WindowsFormsApp4\bin\Debug\Newtonsoft.Json.xml
+D:\Users\ichsu\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
