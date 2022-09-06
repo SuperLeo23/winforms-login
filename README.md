@@ -1,5 +1,5 @@
 # winforms-login
-A Windows Forms app made with C# to simulate a user login using a json file as database
+A Windows Forms app made with C# to manage users using a json file as database
 <br>
 Main script: <a href="https://github.com/SuperLeo23/winforms-login/blob/main/customer.cs">customer.cs</a>
 <br>
